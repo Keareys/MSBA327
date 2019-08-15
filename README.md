@@ -1,5 +1,3 @@
-Draft
-
 # MSBA 327 Text Analytics Group Project  
 ## Predicting Movie Success
 ### Which movie genres will be most successful at the Sundance Film Festival?
