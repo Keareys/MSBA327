@@ -28,10 +28,5 @@ We have examined 4 different approaches to answering our fundamental key importa
 * Text Clustering (Andreas)  
 * Sentiment Analysis (Liu)  
 * Text Classification (Crow)  
-* Content-Based Recommender (Smith)  
-
-## Outcome
-
-
-
+* Content-Based Recommender (Smith)
 
