@@ -11,7 +11,7 @@ The objective of the final project is to explore topics in text analytics under 
 
 ### Authors
 **Prepared by** 
-Dominc Andreas | Brigite Crow | Xiaoting (Theresa) Liu | Kearey Smith
+Dominc Andreas | Brigite T. Crow | Xiaoting (Theresa) Liu | Kearey Smith
 
 **Instructor:**
 Professor Piradee Nganrungruang
